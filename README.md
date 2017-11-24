@@ -50,7 +50,7 @@ logger.writeLog("error", Constant.ERROR, "Here is your customized log file and l
 
 ```
 ########## 公共环境配置 ##########
-# 字符集
+# 字符集  
 CHARSET_NAME = UTF-8
 ########## 日志信息配置 ##########
 # 日志级别   0:调试信息  1:普通信息   2:警告信息  3:错误信息  4:严重错误信息 
